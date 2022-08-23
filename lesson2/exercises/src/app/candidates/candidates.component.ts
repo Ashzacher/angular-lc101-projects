@@ -25,6 +25,9 @@ export class CandidatesComponent implements OnInit {
 
   // Code the addToCrew function here:
 
+  addToCrew(object) {
+    
+  }
 
   // BONUS: Code the changeMissionName function here:
 
