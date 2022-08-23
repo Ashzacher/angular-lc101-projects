@@ -1,0 +1,10 @@
+h3 {
+    font-size: 35px;
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+
+li {
+    color: pink;
+    font-style: italic; 
+}
